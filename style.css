@@ -1,0 +1,41 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+
+.pou{
+    margin-top: 200px;
+}
+
+
+.titulo{
+    font-family:  Brush Script MT ;
+    font-size: 100px;
+}
+
+span{
+    color: yellow;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.btn-contato button:hover{
+    background-color: yellow;
+    box-shadow: 0px 0px 8px yellow;
+    transform: scale(1.05);
+    }
+    
+    .btn-contato button{
+        padding: 10px 40px;
+        font-size: 18px;
+        font-weight: 600;
+        background-color:rgb(226, 226, 21);
+        border: 0;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: 50ms;
+    }
+
+
